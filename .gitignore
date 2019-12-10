@@ -1,0 +1,13 @@
+package-lock.json
+node_modules
+stuff
+working
+.vscode
+.DS_Store
+.idea
+npm-debug.log*
+lerna-debug.log
+
+
+# Save the .vscode configs
+!packages/ext-react-froala-example/.vscode
