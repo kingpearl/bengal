@@ -8,6 +8,19 @@
 # testing
 /coverage
 
+# template
+/template/src
+/template/public
+/template/.env
+/template/.eslintrc
+/template/.huskyrc
+/template/.lintstagedrc
+/template/.nvmrc
+/template/.prettierrc
+/template/jsconfig.json
+/template/README.md
+/template/README_CRA.md
+
 # production
 /build
 
